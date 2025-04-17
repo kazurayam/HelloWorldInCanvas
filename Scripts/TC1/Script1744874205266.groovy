@@ -23,5 +23,5 @@ String script = '''
 '''
 WebUI.executeJavaScript(script, [])
 
-WebUI.delay(3)
+WebUI.delay(30)
 WebUI.closeBrowser()
