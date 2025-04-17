@@ -20,7 +20,7 @@ I made a HTML `page.html` that has an `<canvas>` element.
 
 When opened in a browser, the html looks like:
 
-![initial](http://kazurayam.github.io/HelloWorldInCanvas/images/initial.png)
+![initial](https://kazurayam.github.io/HelloWorldInCanvas/images/initial.png)
 
 I wrote a Test Case script `TC1` as follows
 
@@ -58,7 +58,7 @@ The `TC1` injects a JavaScript code into the page open on a browser, and run the
 
 Then the page turned to be as follows:
 
-![text drawn](http://kazurayam.github.io/HelloWorldInCanvas/images/text_drawn.png)
+![text drawn](https://kazurayam.github.io/HelloWorldInCanvas/images/text_drawn.png)
 
 # Conclusion
 
